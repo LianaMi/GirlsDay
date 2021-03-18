@@ -74,7 +74,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"Labor-Keller1"
+                 "value":"Labor-Keller1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
