@@ -22,7 +22,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -63,7 +63,7 @@
                  "value":"Labor-Keller1.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -165,7 +165,7 @@
          "height":34,
          "id":2,
          "name":"bottom",
-         "opacity":0.5,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":46,
